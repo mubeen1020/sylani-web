@@ -1,0 +1,184 @@
+.first{
+    background-color: blue;
+    height: 100px;
+    width: 1000px;
+    margin: auto 0px auto 20px;
+}
+.facebook{
+   height: 30px;
+   width: 30px; 
+float: left;
+margin: 20px 10px 10px 5px;
+cursor: pointer;
+}
+.twitter{
+    width: 30px;
+    height: 30px;
+float: left;
+margin: 20px 10px 10px 5px;
+cursor: pointer;
+}
+.instagram{
+    width: 30px;
+    height: 30px;
+float: left;
+margin: 20px 10px 10px 5px;
+cursor: pointer;
+}
+.youtube{
+    width: 30px;
+    height: 30px;
+float: left;
+margin: 20px 10px 10px 5px;
+cursor: pointer;
+}
+.watsapp{
+    width: 30px;
+    height: 30px;
+float: left;
+margin: 20px 10px 10px 5px;
+cursor: pointer;
+}
+.p1{
+    text-align: center;
+    padding-top: 10x;
+    margin: 30px 40px 1px 40px;
+    float: left;
+}
+.uk{
+    float: left;
+border: cornsilk 1px;
+border-style: groove;
+margin: 20px auto auto auto;
+cursor: pointer;
+}
+.donate{
+    float: none;
+border: cornsilk 1px;
+border-style: groove;
+margin: 20px auto auto auto;
+cursor: pointer;
+}
+.smit{
+    float: left;
+border: cornsilk 1px;
+border-style: groove;
+margin: 0px 20px auto auto;
+cursor: pointer;
+}
+.home{
+    margin: auto 10px auto 10px;
+    border: 10px blue;
+    color:white;
+    background-color: blue;
+    border-style: groove;
+    height: 50px;
+    width: 90px;
+    scrollbar-shadow-color: chartreuse;
+    cursor: pointer;
+}
+.png{
+    float: left;
+    padding-left: 30px;
+    margin: auto 30px;
+}
+.jpg{
+    background-color: blue;
+    border: 5px green;
+    border-style: groove;
+}
+.p2{
+    background-color: blue;
+    float: none;
+    color: cornsilk;
+}
+.int{
+    color: blue;
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+.duc{
+    color: green;
+    height: 100px;
+    width: 100px;
+    float: none;
+    
+}
+.introduction{
+    border: 1px white;
+    margin: auto 400px auto 400px;
+    border-style: solid;
+}
+.p5{
+    text-align: center;
+    margin: auto 200px auto 200px;
+}
+.data{
+    background-color: blue;
+    border: blue 1px;
+    border-style: groove;
+    margin: 50px 20px auto 20px ;
+
+}
+.daily{
+    color:white;
+    display: block;
+    margin: 10px 30px auto 10px; 
+    text-align: center;
+
+}
+.text-uppercase {
+    color: blue;
+    text-align: center;
+    display: block;
+    float:none;
+    margin: 100px auto 0px auto;
+    
+  
+   
+}
+.text-themeout-colored {
+    color: green;
+    
+  
+}
+.com{
+    color: honeydew;
+    border: 1px white;
+    border-style: groove;
+    margin: 0px 470px 40px 470px;
+    display: block;
+    text-align: center;
+}
+.font-weight-600 {
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+    border-bottom: 10px black;
+}
+.line-bottom {
+    text-align: center;
+    color: blue;
+    height: 100px;
+    background-color: cornsilk;
+    margin: 40pz auto auto 40px;
+    padding-top: 50px;
+}
+.media-body{
+    color: blue;
+}
+.icon-boxleftmedia{text-align: left;
+}
+.text-uppercase{
+    color: blue;
+    text-align: center;
+    display: block;
+}
+.text-themeout-colored {
+    color: green;
+    display:block;
+}
+.food{
+    float: left;
+}
